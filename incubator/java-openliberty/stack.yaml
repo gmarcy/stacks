@@ -25,3 +25,4 @@ templating-data:
     parentpomgroup: 'dev.appsody'
     parentpomid: 'java-openliberty'
     parentpomrange: '[0.2, 0.3)'
+    baseimage: adoptopenjdk/openjdk8-openj9:jdk8u242-b08_openj9-0.18.1-ubi
